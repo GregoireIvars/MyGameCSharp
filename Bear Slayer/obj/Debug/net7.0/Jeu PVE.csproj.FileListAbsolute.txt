@@ -1,0 +1,15 @@
+C:\Users\razgr\source\repos\Jeu PVE\bin\Debug\net7.0\Jeu PVE.exe
+C:\Users\razgr\source\repos\Jeu PVE\bin\Debug\net7.0\Jeu PVE.deps.json
+C:\Users\razgr\source\repos\Jeu PVE\bin\Debug\net7.0\Jeu PVE.runtimeconfig.json
+C:\Users\razgr\source\repos\Jeu PVE\bin\Debug\net7.0\Jeu PVE.dll
+C:\Users\razgr\source\repos\Jeu PVE\bin\Debug\net7.0\Jeu PVE.pdb
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\Jeu PVE.csproj.AssemblyReference.cache
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\Jeu PVE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\Jeu PVE.AssemblyInfoInputs.cache
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\Jeu PVE.AssemblyInfo.cs
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\Jeu PVE.csproj.CoreCompileInputs.cache
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\Jeu PVE.dll
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\refint\Jeu PVE.dll
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\Jeu PVE.pdb
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\Jeu PVE.genruntimeconfig.cache
+C:\Users\razgr\source\repos\Jeu PVE\obj\Debug\net7.0\ref\Jeu PVE.dll
