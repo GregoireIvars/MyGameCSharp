@@ -1,0 +1,26 @@
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Expérience en CSharp.exe
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Expérience en CSharp.deps.json
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Expérience en CSharp.runtimeconfig.json
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Expérience en CSharp.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Expérience en CSharp.pdb
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\Expérience en CSharp.csproj.AssemblyReference.cache
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\Expérience en CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\Expérience en CSharp.AssemblyInfoInputs.cache
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\Expérience en CSharp.AssemblyInfo.cs
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\Expérience en CSharp.csproj.CoreCompileInputs.cache
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\Expérience en CSharp.csproj.CopyComplete
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\Expérience en CSharp.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\refint\Expérience en CSharp.dll
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\Expérience en CSharp.pdb
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\Expérience en CSharp.genruntimeconfig.cache
+C:\Users\razgr\source\repos\Expérience en CSharp\obj\Debug\net7.0\ref\Expérience en CSharp.dll
